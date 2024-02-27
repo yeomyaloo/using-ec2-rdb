@@ -2,7 +2,7 @@
 - springboot 프로젝트와 EC2 RDS를 연동해서 사용해보자
 - 기존의 상황에서는 EC2 리눅스 환경에서 docker를 이용한 데이터베이스 컨테이너화를 진행하여 yml파일에 해당 컨테이너 이름을 넣고 매핑한 포트 번호를 사용해서 스프링 부트 프로젝트가 구동되게 했다.
 - 그러나 현재는 AWS에서 제공하는 RDS를 사용해서 진행할 수 있게 했다.
-
+- 어떤 데이터베이스를 사용하든 그것은 설계에 따른 차이라고 할수 있다. 
 # ⛏Architecture
 ![image](https://github.com/yeomyaloo/using-ec2-rdb/assets/81970382/61200db8-f7ed-41f0-b850-a9785fe415a3)
 
