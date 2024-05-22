@@ -4,7 +4,7 @@
 - 그러나 현재는 AWS에서 제공하는 RDS를 사용해서 진행할 수 있게 했다.
 - 어떤 데이터베이스를 사용하든 그것은 설계에 따른 차이라고 할수 있다. 
 # ⛏Architecture
-![image](https://github.com/yeomyaloo/using-ec2-rdb/assets/81970382/61200db8-f7ed-41f0-b850-a9785fe415a3)
+![image](https://github.com/yeomyaloo/using-ec2-rds/assets/81970382/44528656-d0e6-4199-9877-8b0a753fcf19)
 
 # ✏Process
 ## 1. EC2 환경 생성
